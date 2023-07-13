@@ -1,8 +1,8 @@
 # Avaliação Técnica
 Avaliação tirada da Gupy pra ajudar devinhos :)
 
-
 Linguagem: PHP
+
 DB: Mysql
 
 ---
@@ -81,3 +81,9 @@ O candidato deve criar um branch com o seu nome e submeter um Merge Request com 
 Login: bla bla bla
 
 senha: bla bla bla
+
+---
+
+Feito com 💜
+
+(se eu tiver errado algo ou puder melhor da-lhe pr, issue e etc ... )
